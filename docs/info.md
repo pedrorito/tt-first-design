@@ -9,13 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works.
-Will fill later.
+First test design for the Synopsys / Tiny Tapeout 2026 initiative, made in Wokwi.
+The eight inputs (IN0–IN7) drive simple combinational logic connected to the eight outputs (OUT0–OUT7).
+The logic will be updated before the shuttle deadline.
 
 ## How to test
 
-Explain how to use your project.
-Will fill later.
+Set the input switches IN0–IN7 and observe the outputs OUT0–OUT7.
+No clock is needed (clock_hz = 0).
 
 ## External hardware
 
